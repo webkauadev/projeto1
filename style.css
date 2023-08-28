@@ -11,6 +11,10 @@ header, footer {
     padding: 10px;
 }
 
+header h2{
+    color: #333;
+}
+
 .lista {
     padding: 20px;
 }
